@@ -39,12 +39,14 @@ body{
 .text h2{
     color:hsl(218,44%,22%);
     padding-bottom: 14px;
-    font-size:20px;
+    font-size: 22px;
+    font-weight: 700;
 }
 
 .text p{
     color:hsl(220, 15%, 55%);
-    font-size:15px;
+    font-size: 16px;
+    font-weight: 400;
 }
 footer { 
     font-size: 11px; 
